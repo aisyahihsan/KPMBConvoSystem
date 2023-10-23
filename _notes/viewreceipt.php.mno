@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_update" value="name:idnumber;datatype:string,name:password;datatype:string,name:name;datatype:string,name:icnumber;datatype:string,name:address1;datatype:string,name:address2;datatype:string,name:postcode;datatype:int,name:state;datatype:string,name:country;datatype:string,name:telnumber;datatype:string,name:course;datatype:string,name:yearintake;datatype:int,name:usertype;datatype:string" />
+	<infoitem key="UD_searchuser" value="name:referenceid;datatype:string,name:paystatus;datatype:string,name:datetransaction;datatype:string,name:accno;datatype:string,name:receivebank;datatype:string,name:amount;datatype:string" />
+	<infoitem key="UD_displayreceipt" value="name:referenceid;datatype:string,name:paystatus;datatype:string,name:datetransaction;datatype:string,name:accno;datatype:string,name:receivebank;datatype:string,name:amount;datatype:string" />
+	<infoitem key="UD_displaystatus" value="name:idnumber;datatype:string,name:referenceid;datatype:string,name:attendstatus;datatype:string" />
+	<infoitem key="UD_viewreceipt" value="name:referenceid;datatype:string,name:paystatus;datatype:string,name:datetransaction;datatype:string,name:accno;datatype:string,name:receivebank;datatype:string,name:amount;datatype:string" />
+	<infoitem key="UD_search" value="name:referenceid;datatype:string,name:paystatus;datatype:string,name:datetransaction;datatype:string,name:accno;datatype:string,name:receivebank;datatype:string,name:amount;datatype:string" />
+	<infoitem key="UD_referenceid" value="name:referenceid;datatype:string" />
+</info>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_deletereceipt" value="name:referenceid;datatype:string,name:paystatus;datatype:string,name:datetransaction;datatype:string,name:accno;datatype:string,name:receivebank;datatype:string,name:amount;datatype:string" />
+	<infoitem key="UD_graduate" value="name:idnumber;datatype:string,name:password;datatype:string,name:studname;datatype:string,name:icnumber;datatype:string,name:studaddress;datatype:string,name:studtelno;datatype:string,name:course;datatype:string,name:yearintake;datatype:int,name:usertype;datatype:string" />
+	<infoitem key="UD_display" value="name:referenceid;datatype:string,name:paystatus;datatype:string,name:datetransaction;datatype:string,name:accno;datatype:string,name:receivebank;datatype:string,name:amount;datatype:string,name:idnumber;datatype:string" />
+	<infoitem key="UD_searchreceipt" value="name:referenceid;datatype:string,name:paystatus;datatype:string,name:datetransaction;datatype:string,name:accno;datatype:string,name:receivebank;datatype:string,name:amount;datatype:string" />
+	<infoitem key="UD_displayreceipt" value="name:referenceid;datatype:string,name:paystatus;datatype:string,name:datetransaction;datatype:string,name:accno;datatype:string,name:receivebank;datatype:string,name:amount;datatype:string" />
+</info>

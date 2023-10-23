@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_report" value="name:idnumber;datatype:string,name:referenceid;datatype:string,name:attendstatus;datatype:string,name:studname;datatype:string,name:icnumber;datatype:string,name:studtelno;datatype:string,name:course;datatype:string,name:yearintake;datatype:int,name:paystatus;datatype:string" />
+	<infoitem key="UD_attendance" value="name:idnumber;datatype:string,name:referenceid;datatype:string,name:attendstatus;datatype:string" />
+	<infoitem key="UD_student" value="name:idnumber;datatype:string,name:studname;datatype:string,name:icnumber;datatype:string,name:studtelno;datatype:string,name:course;datatype:string,name:yearintake;datatype:int" />
+	<infoitem key="UD_receipt" value="name:referenceid;datatype:string,name:paystatus;datatype:string,name:idnumber;datatype:string" />
+	<infoitem key="UD_searchrecord" value="name:idnumber;datatype:string,name:referenceid;datatype:string,name:attendstatus;datatype:string" />
+	<infoitem key="UD_find" value="name:idnumber;datatype:string,name:referenceid;datatype:string,name:attendstatus;datatype:string,name:studname;datatype:string,name:icnumber;datatype:string,name:studtelno;datatype:string,name:course;datatype:string,name:yearintake;datatype:int,name:paystatus;datatype:string" />
+	<infoitem key="UD_reportnt" value="name:idnumber;datatype:string,name:referenceid;datatype:string,name:attendstatus;datatype:string,name:studname;datatype:string,name:icnumber;datatype:string,name:studtelno;datatype:string,name:course;datatype:string,name:yearintake;datatype:int,name:paystatus;datatype:string" />
+</info>
